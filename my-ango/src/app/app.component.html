@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+<div class="header">
+  <app-header></app-header>
+
+</div>
+<div class="container">
+  <br>
+  <h2 style="text-align: center; color:darkblue; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">{{title}}</h2>
+  <hr>  
+  <div class="card">
+    <div class="card-body">
+  <router-outlet></router-outlet>
+    </div>
+  </div>
+
+  <br/><br/>
+</div>
+
+<br/><br/>
+
+<div class="footer">
+  
+      <app-footer></app-footer>
+ </div>
+
+
+
+</body>
+</html>
+
+
