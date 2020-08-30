@@ -1,0 +1,13 @@
+
+
+  .panel{
+
+    flex-shrink: 0;
+    flex-grow: 0;
+    background:#039be5;
+    padding: 3px 15px;
+    text-align: center;
+    position: relative;
+    bottom: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
