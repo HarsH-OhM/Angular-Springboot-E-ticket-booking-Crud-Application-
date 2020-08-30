@@ -1,0 +1,61 @@
+<h3>Update Booking Details</h3>
+<div >
+  <form (ngSubmit)="onSubmit()">
+    <div class="row">
+
+        <div class="col-md-6 form-group">
+          <label for="name">First Name</label>
+          <input type="text" class="form-control" id="firstName" required [(ngModel)]="booking.firstName" name="firstName">
+        </div>
+    
+        <div class="col-md-6 form-group">
+          <label for="name">Last Name</label>
+          <input type="text" class="form-control" id="lastName" required [(ngModel)]="booking.lastName" name="lastName">
+        </div>
+        </div>
+    
+        <div class="row">
+    
+            
+        <div class="col-md-6 form-group">
+          <label for="name">Email ID</label>
+          <input type="email" class="form-control" id="emailId" required [(ngModel)]="booking.emailId" name="emailId">
+        </div>
+        <div class="col-md-6 form-group">
+            <label for="name">Contact No.</label>
+            <input type="phone" class="form-control" id="phone" required [(ngModel)]="booking.phone" name="phone">
+          </div>
+    
+          </div>
+    
+          <div class="row">
+          <div class="col-md-12 form-group">
+            <label for="name">Address</label>
+            <input type="text" class="form-control" id="address" required [(ngModel)]="booking.address" name="address">
+          </div>
+          </div>
+    
+          <div class="row">
+    
+          <div class="col-md-6 form-group">
+            <label for="name">Source</label>
+            <input type="text" class="form-control" id="source" required [(ngModel)]="booking.source" name="source">
+          </div>
+          <div class="col-md-6 form-group">
+            <label for="name">Destination</label>
+            <input type="text" class="form-control" id="destination" required [(ngModel)]="booking.destination" name="destination">
+          </div>
+          </div>
+
+          <div class="row">
+    
+            <div class="col-md-12 form-group">
+              <label for="name">Date of Visit</label>
+              <input type="datetime" class="form-control" id="date" required [(ngModel)]="booking.date" name="date">
+            </div>
+            
+            </div>
+
+    <button type="submit" class="btn btn-success">Submit</button>
+  </form>
+</div>
