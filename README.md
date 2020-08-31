@@ -7,4 +7,5 @@ In this Application i have made the fronted design using angular framework and b
   <img src="master/ApplicationScreenshots_images/Screenshot (990).png
 " width="350" alt="accessibility text">
 </p>
-![Screenshot](ApplicationScreenshots_images/Screenshot (990).png)
+
+![alt text](https://github.com/[HarsH-OhM/]/[Angular-Springboot-E-ticket-booking-Crud-Application-]/blob/[master]/Screenshot (990).png?raw=true)
