@@ -8,4 +8,4 @@ In this Application i have made the fronted design using angular framework and b
 " width="350" alt="accessibility text">
 </p>
 
-![alt text](https://github.com/[HarsH-OhM/]/[Angular-Springboot-E-ticket-booking-Crud-Application-]/blob/[master/ApplicationScreenshots_images]/Screenshot(990).png?raw=true)
+![alt text](https://github.com/[HarsH-OhM/]/[Angular-Springboot-E-ticket-booking-Crud-Application-]/blob/[master/Angular-Springboot-E-ticket-booking-Crud-Application-/ApplicationScreenshots_images/Screenshot (989).png]/Screenshot (990).png?raw=true)
