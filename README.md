@@ -7,3 +7,4 @@ In this Application i have made the fronted design using angular framework and b
   <img src="master/ApplicationScreenshots_images/Screenshot (990).png
 " width="350" alt="accessibility text">
 </p>
+![Screenshot](ApplicationScreenshots_images/Screenshot (990).png)
